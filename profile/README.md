@@ -1,12 +1,12 @@
 <div align="center">
 
-# DumbestBOT
+<img src="https://raw.githubusercontent.com/DumbestBOT/.github/main/banner.png" alt="DumbestBOT — powered by DumbCode" width="100%">
 
 **An on-demand coding agent for your repositories.**
 Mention `@dumbestbot` on any issue or pull request — it investigates with real tools and reports back.
 
 [![Release](https://img.shields.io/github/v/release/Shimba-crypto/DumbCode?label=DumbCode&sort=semver)](https://github.com/Shimba-crypto/DumbCode/releases)
-[![Tests](https://img.shields.io/badge/tests-125%2F125-brightgreen)](https://github.com/Shimba-crypto/DumbCode/actions)
+[![Tests](https://img.shields.io/badge/tests-127%2F127-brightgreen)](https://github.com/Shimba-crypto/DumbCode)
 [![License](https://img.shields.io/github/license/Shimba-crypto/DumbCode)](https://github.com/Shimba-crypto/DumbCode/blob/main/LICENSE)
 
 **[Install the App →](https://github.com/apps/dumbestbot)** · [DumbCode CLI](https://github.com/Shimba-crypto/DumbCode) · [Self-hosting](https://github.com/Shimba-crypto/DumbCode/blob/main/bot/README.md)
@@ -46,3 +46,11 @@ npm run bot                          # webhook server on :4310
 ```
 
 Full setup, permissions, and security notes: **[bot/README.md](https://github.com/Shimba-crypto/DumbCode/blob/main/bot/README.md)**.
+
+---
+
+<div align="center">
+
+Built on [DumbCode](https://github.com/Shimba-crypto/DumbCode) — open-source, zero-dependency, MIT.
+
+</div>
